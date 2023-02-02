@@ -1,0 +1,4 @@
+#: translate.py:8
+msgid "hello world"
+msgstr "Hallo Welt"
+
